@@ -5,17 +5,16 @@ This project is a command-line Expense Tracker application written in Python wit
 The purpose of creating this program was to demonstrate proficiency in working with SQLite relational databases using Python and to learn more about applying this to real-world cases.
 
 To use the program, you can run the Python file in a terminal. From the menu, you can:
--Add New Users
--Update Users
--Delete Users
--View All Users
--Add Expenses
--Update Expenses
--Delete Expenses
--View All Expenses
--View Expenses by User, Sorted by Date
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
+- Add New Users
+- Update Users
+- Delete Users
+- View All Users
+- Add Expenses
+- Update Expenses
+- Delete Expenses
+- View All Expenses
+- View Expenses by User, Sorted by Date
 
 [Software Demo Video](https://www.youtube.com/watch?v=F7UNjhzV9FY)
 
